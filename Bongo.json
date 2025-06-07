@@ -91,6 +91,13 @@
    "allowOffline": true
   },
   {
+   "id": "7fff7c49eeaf0e52",
+   "username": "Lazy",
+   "password": "Lazy#61",
+   "expiresAt": "2025-07-07",
+   "allowOffline": true
+  },
+  {
    "id": "android_device_id_2",
    "username": "user2",
    "password": "pass2",
