@@ -70,6 +70,20 @@
    "allowOffline": true
   },
   {
+   "id": "a7734b6a91ddc6de",
+   "username": "pranto",
+   "password": "pranto08",
+   "expiresAt": "2025-07-07",
+   "allowOffline": true
+  },
+  {
+   "id": "c89a9de4c9c9b20d",
+   "username": "saminrimon",
+   "password": "samin123@",
+   "expiresAt": "2025-07-07",
+   "allowOffline": true
+  },
+  {
    "id": "android_device_id_2",
    "username": "user2",
    "password": "pass2",
