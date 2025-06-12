@@ -7,6 +7,13 @@
    "allowOffline": true
   },
   {
+   "id": "5f00cbc14168123b",
+   "username": "admin",
+   "password": "nasif",
+   "expiresAt": "2025-07-11",
+   "allowOffline": true
+  },
+  {
    "id": "2c5621d4e1da6bed",
    "username": "nirjon",
    "password": "525824",
